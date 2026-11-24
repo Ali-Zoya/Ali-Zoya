@@ -4,21 +4,7 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Building+intelligent+solutions+with+AI+%26+ML;Exploring+LLMs%2C+RAG+%26+Generative+AI;Turning+ideas+into+real-world+applications;Always+learning.+Always+building." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://zoya-ali.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/Ali-Zoya">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/zoya-ali-25792a287/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </div>
 
@@ -75,10 +61,10 @@ A computer vision application that detects human falls and automatically alerts 
 **Tech:** React, TypeScript, MediaPipe, Node.js, Express, PostgreSQL.
 
 <a href="https://github.com/Ali-Zoya/Fall-Detection">
-<img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://safewalk-falldetection.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0891B2?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -93,7 +79,7 @@ An application that identifies human body keypoints and visualizes skeletal stru
 **Tech:** Python, OpenCV, TensorFlow, Streamlit, NumPy.
 
 <a href="https://github.com/Ali-Zoya/human-pose-estimation">
-<img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -111,10 +97,10 @@ An integrated student workspace featuring task management, academic scheduling, 
 **Tech:** Python, Flask, SQLAlchemy, JavaScript, Tailwind CSS, Gemini API.
 
 <a href="https://github.com/Ali-Zoya/AI-Student-Assistance">
-<img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://ai-student-assistance-pi.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0891B2?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -129,10 +115,10 @@ A voice-controlled shopping assistant with natural language command processing, 
 **Tech:** React, TypeScript, Vite, Web Speech API.
 
 <a href="https://github.com/Ali-Zoya/voice-command-shopping-assistant">
-<img src="https://img.shields.io/badge/View_Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://voice-command-shopping-assistant-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0891B2?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -149,11 +135,11 @@ A voice-controlled shopping assistant with natural language command processing, 
 ## 🧠 Currently Exploring
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Large_Language_Models-0F172A?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-0F172A?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-0F172A?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
 I'm particularly interested in understanding how modern AI systems can retrieve information, reason over data and provide useful, context-aware responses.
@@ -176,23 +162,17 @@ I'm always open to connecting with developers, exploring opportunities and colla
 <div align="center">
 
 <a href="https://zoya-ali.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-<a href="https://linkedin.com/in/zoya-ali">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/zoya-ali-25792a287/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/Ali-Zoya">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-Follow_My_Work-343A40?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
-
-*Building. Learning. Innovating.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:164E63&height=85&section=footer" width="100%" />
+*Thanks for visiting my profile!*
 
 </div>

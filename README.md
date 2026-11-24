@@ -22,7 +22,7 @@
 <a href="https://github.com/Ali-Zoya">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/zoya-ali">
+<a href="https://www.linkedin.com/in/zoya-ali-25792a287/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

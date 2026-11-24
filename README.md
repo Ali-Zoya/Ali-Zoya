@@ -1,178 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:164E63&height=180&section=header&text=Zoya%20Ali&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%2F%20ML%20Developer%20%7C%20Software%20Engineer&descSize=17&descAlignY=67&descColor=BAE6FD" width="100%" />
+# Zoya Ali
+
+**AI/ML Developer | Software Engineer | Computer Science Undergraduate**
+
+*Building intelligent solutions, exploring new technologies, and turning ideas into reality.*
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Building+intelligent+solutions+with+AI+%26+ML;Exploring+LLMs%2C+RAG+%26+Generative+AI;Turning+ideas+into+real-world+applications;Always+learning.+Always+building." alt="Typing SVG" />
+<a href="https://zoya-ali.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-EA4C89?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/Ali-Zoya">
+  <img src="https://img.shields.io/badge/GITHUB-Explore_My_Work-343A40?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/zoya-ali-25792a287/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-Hi! I'm **Zoya Ali**, a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**.
-
-I'm passionate about building practical applications that combine intelligent technologies with real-world problem-solving.
-
-- 🎓 Pursuing B.Tech in Computer Science (AI & ML).
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Computer Vision.
-- 💡 Exploring Generative AI, Large Language Models and Retrieval-Augmented Generation (RAG).
-- 💻 Enjoy developing end-to-end applications and experimenting with new technologies.
-- 🚀 Focused on continuously improving my problem-solving and software development skills.
-
----
-
-## 🛠️ Tech Stack
-
-**Programming Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
-</p>
-
-**Frameworks & Libraries**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,tensorflow,opencv" />
-</p>
-
-**Databases & Developer Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,vercel,streamlit" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="53%" valign="top">
 
-### 🛡️ SafeWalk
+## About Me
 
-**AI-Powered Fall Detection System**
+Hello! I'm **Zoya Ali**, a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning.
 
-A computer vision application that detects human falls and automatically alerts emergency contacts.
+I'm passionate about technology and enjoy building applications that solve real-world problems.
 
-**Tech:** React, TypeScript, MediaPipe, Node.js, Express, PostgreSQL.
+My journey revolves around exploring new technologies, strengthening my programming skills, and developing practical solutions.
 
-<a href="https://github.com/Ali-Zoya/Fall-Detection">
-<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://safewalk-falldetection.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+My primary interests include AI/ML, computer vision, and software development. I'm also exploring Generative AI, LLMs and RAG-based applications.
 
 </td>
-<td width="50%" valign="top">
+<td width="47%" valign="top">
 
-### 🧍 Human Pose Estimation
+## My Technical Interests
 
-**Machine Learning & Computer Vision**
+**Artificial Intelligence**
 
-An application that identifies human body keypoints and visualizes skeletal structures from uploaded images.
+- Machine Learning
+- Deep Learning
+- Generative AI
 
-**Tech:** Python, OpenCV, TensorFlow, Streamlit, NumPy.
+**Intelligent Applications**
 
-<a href="https://github.com/Ali-Zoya/human-pose-estimation">
-<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI-powered applications
 
-</td>
-</tr>
+**Software Development**
 
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 AI Student Assistance
-
-**AI-Powered Productivity Platform**
-
-An integrated student workspace featuring task management, academic scheduling, Pomodoro sessions, AI flashcards and productivity analytics.
-
-**Tech:** Python, Flask, SQLAlchemy, JavaScript, Tailwind CSS, Gemini API.
-
-<a href="https://github.com/Ali-Zoya/AI-Student-Assistance">
-<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://ai-student-assistance-pi.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 VoiceCart
-
-**Voice Command Shopping Assistant**
-
-A voice-controlled shopping assistant with natural language command processing, automatic categorization and intelligent product suggestions.
-
-**Tech:** React, TypeScript, Vite, Web Speech API.
-
-<a href="https://github.com/Ali-Zoya/voice-command-shopping-assistant">
-<img src="https://img.shields.io/badge/GitHub-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://voice-command-shopping-assistant-seven.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+- Problem Solving
+- Backend Development
+- Full-Stack Applications
 
 </td>
 </tr>
 </table>
 
-### More Projects
-
-- [AI Legal Sentiment Analyzer](https://github.com/Ali-Zoya/AI-Legal-Sentiment-Analyzer-main) – Machine learning-based sentiment analysis of legal text.
-- [Personal Portfolio](https://zoya-ali.vercel.app/) – My personal portfolio showcasing projects, skills and development work.
-
 ---
-
-## 🧠 Currently Exploring
-
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
-
-I'm particularly interested in understanding how modern AI systems can retrieve information, reason over data and provide useful, context-aware responses.
-
----
-
-## 💡 What I Enjoy Building
-
-- **AI Applications:** Developing intelligent applications that solve practical problems.
-- **Computer Vision:** Exploring image processing, object detection and human pose estimation.
-- **AI-Powered Tools:** Experimenting with LLMs, RAG pipelines and intelligent assistants.
-- **Full-Stack Development:** Connecting frontend experiences with backend services and databases.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to connecting with developers, exploring opportunities and collaborating on interesting projects.
 
 <div align="center">
 
-<a href="https://zoya-ali.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/zoya-ali-25792a287/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Ali-Zoya">
-<img src="https://img.shields.io/badge/GITHUB-Follow_My_Work-343A40?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## Technologies & Tools
+
+<br/>
+
+**Programming Languages**
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/><br/>
 
-*Thanks for visiting my profile!*
+**Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<br/><br/>
+
+**Databases & Tools**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br/><br/>
+
+**Currently Exploring**
+
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square" />
+
+</div>
+
+---
+
+<div align="center">
+
+### A Little More About Me
+
+💡 I enjoy solving challenging problems.
+
+🤖 I'm fascinated by the possibilities of Artificial Intelligence.
+
+🚀 I love transforming ideas into working applications.
+
+📚 Always curious. Always learning.
+
+<br/>
+
+**Thanks for stopping by!**
+
+*Let's build something meaningful.*
 
 </div>

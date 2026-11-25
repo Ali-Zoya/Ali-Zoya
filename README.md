@@ -1,21 +1,15 @@
 <div align="center">
 
-# Zoya Ali
-
-**AI/ML Engineer · Computer Vision · Full-Stack Developer**
-
-Building real-time computer vision systems, agentic workflows, and accessible software solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=180&section=header&text=Zoya%20Ali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Zoya Ali Header" width="100%" />
 
 <p align="center">
-  <a href="https://zoya-ali.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-zoya--ali.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/zoya-ali-25792a287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Zoya_Ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ali-Zoya">
-    <img src="https://img.shields.io/badge/GitHub-Ali--Zoya-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%26+Deep+Learning;Full-Stack+%26+Intelligent+Applications;Building+Accessible+%26+Impactful+Tech" alt="Typing SVG" />
+</p>
+
+Building real-time computer vision systems, assistive AI, and modern web applications.
+
+<p align="center">
+  <a href="https://zoya-ali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-EA4C89?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/zoya-ali-25792a287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/Ali-Zoya/resume"><img src="https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 </div>
@@ -26,22 +20,23 @@ Building real-time computer vision systems, agentic workflows, and accessible so
 
 I am a Computer Science undergraduate specializing in **Artificial Intelligence** and **Machine Learning**. My work sits at the intersection of applied deep learning, computer vision, and modern full-stack development—translating complex algorithmic concepts into reliable, production-ready applications.
 
-- 🔭 **Current Focus:** Real-time assistive vision systems, multimodal architectures, and autonomous AI agents.
+- 🔭 **Current Focus:** Real-time assistive vision systems, multimodal architectures, and intelligent web applications.
 - 🎯 **Domain Expertise:** Object detection & tracking, pose estimation, RAG pipelines, and RESTful microservices.
 - 🌱 **Exploring:** Vision-Language Models (VLMs), agent orchestration frameworks (LangGraph / Multi-agent), and edge ML deployment.
 - 🤝 **Open For:** Collaborations on AI for social good, open-source tooling, and software engineering opportunities.
 
 ---
 
-### 🚀 Featured Projects
+### 📌 Pinned Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[AI Assistive Navigation](https://github.com/Ali-Zoya/AI-Assistive-Navigation-Visually-Impaired)** | Real-time computer vision pipeline engineered to provide spatial awareness and obstacle detection for the visually impaired. | `Python` `OpenCV` `Deep Learning` |
-| **[Human Pose & Fall Detection](https://github.com/Ali-Zoya/Fall-Detection)** | Edge-friendly vision system utilizing keypoint tracking to detect sudden falls and alert caregivers in real-time. | `Python` `MediaPipe` `OpenCV` |
-| **[Legal Sentiment & Document Analyzer](https://github.com/Ali-Zoya/AI-Legal-Sentiment-Analyzer-main)** | NLP pipeline for analyzing sentiment nuance, clauses, and domain-specific tone across legal corpora. | `Python` `Transformers` `NLP` |
-| **[Eco-Loop Agent Systems](https://github.com/Ali-Zoya/eco-loop-building-agents)** | Multi-agent coordination framework automating environmental resource tracking and sustainability tasks. | `Python` `LangChain` `AI Agents` |
-| **[SafeWalk Platform](https://github.com/Ali-Zoya/SafeWalk-WebApp)** | Full-stack safety navigation platform featuring live route monitoring and emergency alert broadcasting. | `React` `Node.js` `Express` `REST API` |
+| **[SafeWalk – AI Fall Detection](https://github.com/Ali-Zoya/Fall-Detection)** | Privacy-first computer vision system detecting human falls in real time and automatically alerting emergency contacts client-side. | `Python` `OpenCV` `MediaPipe` `JavaScript` |
+| **[Human Pose Estimation](https://github.com/Ali-Zoya/human-pose-estimation)** | Interactive ML application detecting 18 skeletal body keypoints from images and rendering estimated poses with OpenPose. | `Python` `OpenCV` `TensorFlow` `Streamlit` |
+| **[AI Student Assistance Platform](https://github.com/Ali-Zoya/AI-Student-Assistance)** | Unified productivity workspace featuring AI study workflows, Pomodoro timers, flashcard learning, and smart scheduling. | `Python` `Flask` `SQLAlchemy` `Tailwind CSS` |
+| **[Legal Sentiment Analyzer](https://github.com/Ali-Zoya/AI-Legal-Sentiment-Analyzer-main)** | Natural language processing pipeline classifying domain-specific legal sentiment, clauses, and tone. | `Python` `Machine Learning` `NLP` `Jupyter` |
+| **[Personal Portfolio](https://github.com/Ali-Zoya/portfolio)** | Modern, responsive developer portfolio showcasing projects, technical expertise, and career journey. | `Next.js` `React` `Tailwind CSS` `Vercel` |
+| **[Professional Resume](https://github.com/Ali-Zoya/resume)** | Digital credentials repository detailing technical qualifications, academic background, and milestones. | `PDF` `Documentation` `Credentials` |
 
 ---
 
